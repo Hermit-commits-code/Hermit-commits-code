@@ -1,4 +1,6 @@
-## Hi there 👋
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/gifs/Edgerunners-anime-cyberpunk-edgerunners-JYZWs0UkzK2WKBoCUM)" width="100"/>
+</div>
 ![Hermit-commits-code's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hermit-commits-code&show_icons=true&theme=synthwave)
 <!--
 **Hermit-commits-code/Hermit-commits-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

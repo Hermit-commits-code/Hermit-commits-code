@@ -11,9 +11,8 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=Hermit-commits-code&style=flat-square&color=blue" alt=""/>
 </div>
+
 ![Hermit-commits-code's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hermit-commits-code&show_icons=true&theme=synthwave)
-<!--
-**Hermit-commits-code/Hermit-commits-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -25,4 +24,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->

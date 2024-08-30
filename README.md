@@ -1,6 +1,7 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/Edgerunners-anime-cyberpunk-edgerunners-JYZWs0UkzK2WKBoCUM" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ZjaDRqN2hsaWw1MmZwd3dxY2FrM2VzbXh1eG10dDlvcnRoaWhuMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3VLajsSQMEMxvQQv8N/giphy.gif" width="100"/>
 </div>
+
 ![Hermit-commits-code's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hermit-commits-code&show_icons=true&theme=synthwave)
 <!--
 **Hermit-commits-code/Hermit-commits-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
